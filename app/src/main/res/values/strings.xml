@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercicio2</string>
+    <string name="btImc">IMC</string>
+    <string name="btVogal">VOGAL CONSOANTE</string>
+    <string name="btSoma">SOMA</string>
+    <string name="editText">DIGITE UM TEXTO</string>
+    <string name="btCalcular">CALCULAR</string>
+    <string name="etPeso">DIGITE SEU PESO</string>
+    <string name="etAltura">DIGITE SUA ALTURA</string>
+    <string name="resultado">Resultado:</string>
+    <string name="resul" />
+    <string name="situacao">Situação:</string>
+</resources>
